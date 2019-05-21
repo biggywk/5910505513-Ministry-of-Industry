@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/5910505513-Ministry-of-Industry/precache-manifest.e0878d2af479d74ec90ff402233772b7.js"
+  "/5910505513-Ministry-of-Industry/precache-manifest.c35b7e50b4311e8e817853b924e4382d.js"
 );
 
 workbox.clientsClaim();
